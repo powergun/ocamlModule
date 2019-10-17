@@ -1,0 +1,3 @@
+(executable
+ (name rundemos)
+ (libraries core base stdio))
